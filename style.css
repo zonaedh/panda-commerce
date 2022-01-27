@@ -7,3 +7,11 @@
 .price{
     color: #FF136F
 }
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF136F 100%);
+    color: #fff;
+    order: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
